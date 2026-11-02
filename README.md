@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Relist
 
-## Getting Started
+Relist to projekt build-in-public będący klonem istniejącego marketplace'u [Vinted](https://vinted.com). Postępy projektu można śledzić na moim profilu [LinkedIn](https://www.linkedin.com/in/karol-piskorowski-7b9959375/).
 
-First, run the development server:
+## Zakres wersji 1
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Rejestracja i logowanie
+- Dodawanie, edycja i usuwanie ogłoszeń ze zdjęciami
+- Wyszukiwanie, filtry kategorii i ceny, paginacja
+- Ulubione i oznaczanie jako sprzedane
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Pomysły na kolejne wersje: [pozniej.md](./docs/pozniej.md)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Zasady pracy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Kod piszę samodzielnie. AI używam do tłumaczenia pojęć i szukania błędów, nie do generowania gotowego kodu.
 
-## Learn More
+## Jak uruchomić?
 
-To learn more about Next.js, take a look at the following resources:
+Demo jest dostępne na [relist.restack.pl](https://relist.restack.pl). W późniejszej części projektu będzie również możliwość hostowania strony lokalnie za pomocą Dockera. Kroki będą znajdować się poniżej.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologie
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![Technologie](https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+_Projekt edukacyjny, niezwiązany z Vinted._
