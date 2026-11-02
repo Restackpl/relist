@@ -1,0 +1,4 @@
+# LISTA POMYSŁÓW DO WPROWADZENIA W PRZYSZŁOŚCI
+
+- Wiadomości
+- Oceny
